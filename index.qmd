@@ -1,0 +1,18 @@
+# Pietro's Advanced Github notes
+
+This is my very simple website. Today I:
+
+1. Joined a github org called [rostock2025](https://github.org/rostock2025/)
+
+- A
+- B
+- C
+
+- 1
+- 2
+- 3
+
+## Additional links
+[Quarto themes](https://quarto.org/docs/output-formats/html-themes.html)
+
+[Quarto navigation](https://quarto.org/docs/websites/website-navigation.html)
